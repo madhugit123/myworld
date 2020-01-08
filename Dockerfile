@@ -1,5 +1,5 @@
 # Pull base image 
-From think_mmsr 
+From tomcat:8-jre7
 
 # Maintainer 
 MAINTAINER "munnangi10@gmail.com" 
